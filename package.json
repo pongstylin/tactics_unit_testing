@@ -1,0 +1,23 @@
+{
+  "name": "tactics_unit_testing",
+  "version": "1.0.0",
+  "description": "A temporary repository to collaborate on unit development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js || true",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pongstylin/tactics_unit_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pongstylin/tactics_unit_testing/issues"
+  },
+  "homepage": "https://github.com/pongstylin/tactics_unit_testing#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

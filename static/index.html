@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Unit Testing</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.8.2/pixi.min.js"></script>
+    <script src="testing.js"></script>
+    <style>
+      body {
+        margin:  10px;
+        padding: 0px;
+      }
+      canvas {
+        display: block;
+      }
+      #top {
+        position:        fixed;
+        top:             10px;
+        width:           410px;
+        justify-content: space-between;
+        display:         flex;
+        box-sizing:      border-box;
+      }
+      #left {
+        margin-top: 40px;
+        width:      160px;
+      }
+      #left .caption {
+        height:     20px;
+        text-align: center;
+      }
+      #right {
+        position: fixed;
+        top:      60px;
+        left:     200px;
+        border:   1px solid #dddddd;
+      }
+      #unit_list {
+        width:  100%;
+        border: 1px solid #dddddd;
+      }
+      #unit_actions a {
+        display:       block;
+        width:         100%;
+        border:        1px solid #dddddd;
+        text-align:    center;
+        box-sizing:    border-box;
+        margin-bottom: 2px;
+        cursor:        pointer;
+      }
+    </style>
+  </head>
+  <body>
+      <div id="top">
+        <div>
+          <select id="unit_list" disabled>
+            <option>Loading...</option>
+            <option disabled>* Select Unit *</option>
+          </select>
+        </div>
+        <div>
+          Loop: <input id="loop" type="checkbox">
+        </div>
+        <div>
+          FPS: <input id="fps" type="text" value="12" size=1>
+        </div>
+        <div style="width:100px">
+          Frame: <span id="rendered_index"></span>
+        </div>
+      </div>
+      <div id="bottom">
+        <div id="left">
+          <div class="caption">
+            Play Action
+          </div>
+          <div id="unit_actions"></div>
+        </div>
+        <div id="right">
+          <canvas id="board" width="176" height="168"></canvas>
+        </div>
+      </div>
+  </body>
+</html>
