@@ -1,5 +1,107 @@
 [
   {
+    "name": "ambusher"
+  },
+  {
     "name": "assassin"
+  },
+  {
+    "name": "barrier"
+  },
+  {
+    "name": "berserker"
+  },
+  {
+    "name": "bigstreaks"
+  },
+  {
+    "name": "blackspike"
+  },
+  {
+    "name": "blouder"
+  },
+  {
+    "name": "bubbles"
+  },
+  {
+    "name": "bward"
+  },
+  {
+    "name": "cleric"
+  },
+  {
+    "name": "die"
+  },
+  {
+    "name": "dragon"
+  },
+  {
+    "name": "dspeaker"
+  },
+  {
+    "name": "egg"
+  },
+  {
+    "name": "enchantress"
+  },
+  {
+    "name": "explode"
+  },
+  {
+    "name": "fire"
+  },
+  {
+    "name": "fireblast"
+  },
+  {
+    "name": "frost"
+  },
+  {
+    "name": "furgon"
+  },
+  {
+    "name": "glow"
+  },
+  {
+    "name": "knight"
+  },
+  {
+    "name": "lightning"
+  },
+  {
+    "name": "lward"
+  },
+  {
+    "name": "mud"
+  },
+  {
+    "name": "pyromancer"
+  },
+  {
+    "name": "rider"
+  },
+  {
+    "name": "scout"
+  },
+  {
+    "name": "shell"
+  },
+  {
+    "name": "shrub"
+  },
+  {
+    "name": "slash"
+  },
+  {
+    "name": "stone"
+  },
+  {
+    "name": "trophy"
+  },
+  {
+    "name": "wispet"
+  },
+  {
+    "name": "witch"
   }
 ]

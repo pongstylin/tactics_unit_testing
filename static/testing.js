@@ -105,6 +105,7 @@ window.addEventListener('DOMContentLoaded', () => {
         // This promise resolves once all images are loaded.
         let images_promise = new Promise((resolve, reject) => {
           // Images are cached as PIXI textures and accessed by index.
+		  loader.reset()
           unit.images.forEach((url, index) => {
             loader.add(index.toString(), '/units/' + url);
           });
@@ -175,7 +176,7 @@ window.addEventListener('DOMContentLoaded', () => {
   function renderFrame(frame) {
     unit_container.removeChildren();
 
-    frame.frame.forEach(layer => {
+    frame.frame.reverse().forEach(layer => {
       let spritesheet = PIXI.BaseTexture.fromImage(layer.i.toString());
       let texture = new PIXI.Texture(spritesheet, new PIXI.Rectangle(
         layer.vx,
