@@ -105,7 +105,7 @@ window.addEventListener('DOMContentLoaded', () => {
         // This promise resolves once all images are loaded.
         let images_promise = new Promise((resolve, reject) => {
           // Images are cached as PIXI textures and accessed by index.
-		  loader.reset()
+          loader.reset()
           unit.images.forEach((url, index) => {
             loader.add(index.toString(), '/units/' + url);
           });
@@ -114,20 +114,26 @@ window.addEventListener('DOMContentLoaded', () => {
         });
 
         // This promise resolves once all sounds are loaded.
-        let sounds_promise = new Promise((resolve, reject) => {
-          // Sounds are cached as audio objects in the sounds array.
-          let loaded_count = 0;
+        let sounds_promise;
+        if (unit.sounds.length) {
+          sounds_promise = new Promise((resolve, reject) => {
+            // Sounds are cached as audio objects in the sounds array.
+            let loaded_count = 0;
 
-          sounds = unit.sounds.map(filename => {
-            let audio = new Audio();
-            audio.addEventListener('loadeddata', () => {
-              loaded_count++;
-              if (loaded_count === unit.sounds.length)
-                resolve();
+            sounds = unit.sounds.map(filename => {
+              let audio = new Audio();
+              audio.addEventListener('loadeddata', () => {
+                loaded_count++;
+                if (loaded_count === unit.sounds.length)
+                  resolve();
+              });
+              audio.src = base_sound_url + filename + '.mp3';
             });
-            audio.src = base_sound_url + filename + '.mp3';
           });
-        });
+        }
+        else {
+          sounds_promise = Promise.resolve();
+        }
 
         // Wait for both images and sounds to load.
         return Promise.all([images_promise, sounds_promise])
