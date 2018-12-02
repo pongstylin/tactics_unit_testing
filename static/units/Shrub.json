@@ -1432,83 +1432,83 @@
   "actions": {
     "s1": {
       "start": 0,
-      "end": 0
+      "end": -1
     },
     "s2": {
       "start": 1,
-      "end": 1
+      "end": 0
     },
     "s3": {
       "start": 2,
-      "end": 2
+      "end": 1
     },
     "s4": {
       "start": 3,
-      "end": 3
+      "end": 2
     },
     "t1": {
       "start": 4,
-      "end": 6
+      "end": 5
     },
     "t2": {
       "start": 6,
-      "end": 8
+      "end": 7
     },
     "t3": {
       "start": 8,
-      "end": 10
+      "end": 9
     },
     "t4": {
       "start": 10,
-      "end": 12
+      "end": 11
     },
     "gh1": {
       "start": 12,
-      "end": 12
+      "end": 11
     },
     "gh2": {
       "start": 13,
-      "end": 13
+      "end": 12
     },
     "gh3": {
       "start": 14,
-      "end": 14
+      "end": 13
     },
     "gh4": {
       "start": 15,
-      "end": 15
+      "end": 14
     },
     "sm1": {
       "start": 16,
-      "end": 23
+      "end": 22
     },
     "sm2": {
       "start": 23,
-      "end": 30
+      "end": 29
     },
     "sm3": {
       "start": 30,
-      "end": 37
+      "end": 36
     },
     "sm4": {
       "start": 37,
-      "end": 44
+      "end": 43
     },
     "us1": {
       "start": 44,
-      "end": 49
+      "end": 48
     },
     "us2": {
       "start": 49,
-      "end": 54
+      "end": 53
     },
     "us3": {
       "start": 54,
-      "end": 59
+      "end": 58
     },
     "us4": {
       "start": 59,
-      "end": 59
+      "end": 58
     }
   }
 }

@@ -289,15 +289,15 @@
   "actions": {
     "bon": {
       "start": 0,
-      "end": 9
+      "end": 8
     },
     "boff": {
       "start": 9,
-      "end": 13
+      "end": 12
     },
     "bactive": {
       "start": 13,
-      "end": 13
+      "end": 12
     }
   }
 }
