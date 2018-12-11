@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6678" itemID="536fb3c7-00001a17" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6678">
+      <layers>
+        <DOMLayer name="Layer 2" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192" soundName="sound 15 (idel to over )" soundLoop="0" soundZoomLevel="65535">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 6668 (Over)" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 6671 (Up Over Down Hit)" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

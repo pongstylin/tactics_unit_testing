@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6708" itemID="536fb3c7-00001a35" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6708">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMInputText name="inputbox" fontRenderingMode="standard" width="688.8" height="14" maxCharacters="100" scrollable="true">
+                  <matrix>
+                    <Matrix a="1.00022888183594" tx="20" ty="19"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="93.8" width="173.25" height="13" isSelectable="false" scrollable="true" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix a="1.00111389160156" d="1.0032958984375" tx="-91.9" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#FFEECC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>-Press enter to send.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 6705" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

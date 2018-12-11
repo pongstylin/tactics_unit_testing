@@ -1,0 +1,178 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 4717 (Trophy)" itemID="536fb3c7-0000126d" linkageExportForAS="true" linkageIdentifier="Trophy" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 4717 (Trophy)">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 451;
+for (\x01 = eval("\x01") + 258; eval("\x01") == 709; \x01 = eval("\x01") - 7)
+{
+    \x01 = eval("\x01") - 490;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 219)
+{
+    \x01 = eval("\x01") - 7;
+    
+    
+} // end if
+if (eval("\x01") == 212)
+{
+    \x01 = eval("\x01") + 99;
+    
+    
+} // end if
+if (eval("\x01") == 311)
+{
+    \x01 = eval("\x01") - 20;
+    
+} // end if
+if (eval("\x01") == 291)
+{
+    \x01 = eval("\x01") - 243;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 815;
+while (\x01 = eval("\x01") - 217, eval("\x01") == 483)
+{
+    \x01 = eval("\x01") - 169;
+} // end while
+\x01 = eval("\x01") + 78;
+if (eval("\x01") == 783)
+{
+    \x01 = eval("\x01") + 144;
+    
+    
+} // end if
+if (eval("\x01") == 411)
+{
+    \x01 = eval("\x01") - 188;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 8;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 985)
+{
+    \x01 = eval("\x01") - 502;
+    
+    
+} // end if
+if (eval("\x01") == 223)
+{
+    \x01 = eval("\x01") + 8;
+    
+    
+} // end if
+if (eval("\x01") == 309)
+{
+    \x01 = eval("\x01") + 329;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 347;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 638)
+{
+    \x01 = eval("\x01") + 347;
+    
+    
+} // end if
+if (eval("\x01") == 598)
+{
+    \x01 = eval("\x01") + 185;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 144;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 516;
+if (eval("\x01") == 314)
+{
+    \x01 = eval("\x01") - 215;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Label Layer" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" name="s1" labelType="name" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="s3" labelType="name" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 1374 (Blank)" name="mycolor">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 4714" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 4716" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

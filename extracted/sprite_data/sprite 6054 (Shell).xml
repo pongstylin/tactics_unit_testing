@@ -1,0 +1,1572 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6054 (Shell)" itemID="536fb3c7-000017a7" linkageExportForAS="true" linkageIdentifier="Shell" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6054 (Shell)">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 551;
+while (\x01 = eval("\x01") + 386, eval("\x01") == 30)
+{
+    \x01 = eval("\x01") + 782;
+    break;
+} // end while
+if (eval("\x01") == 829)
+{
+    \x01 = eval("\x01") - 810;
+    
+    
+} // end if
+if (eval("\x01") == 937)
+{
+    \x01 = eval("\x01") - 295;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 173;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 591;
+if (eval("\x01") == 816)
+{
+    \x01 = eval("\x01") - 64;
+    
+} // end if
+\x01 = eval("\x01") - 25;
+if (eval("\x01") == 444)
+{
+    \x01 = eval("\x01") - 109;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 44;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 642)
+{
+    \x01 = eval("\x01") - 173;
+    
+    
+} // end if
+if (eval("\x01") == 696)
+{
+    \x01 = eval("\x01") + 120;
+    
+    
+} // end if
+if (eval("\x01") == 335)
+{
+    \x01 = eval("\x01") - 44;
+    
+    
+} // end if
+\x01 = eval("\x01") + 611;
+if (eval("\x01") == 902)
+{
+    \x01 = eval("\x01") - 872;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 782;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 923;
+if (eval("\x01") == 288)
+{
+    \x01 = eval("\x01") + 345;
+    
+    
+} // end if
+if (eval("\x01") == 574)
+{
+    \x01 = eval("\x01") + 122;
+    
+    
+} // end if
+if (eval("\x01") == 40)
+{
+    \x01 = eval("\x01") + 789;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 810;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 224;
+if (eval("\x01") == 588)
+{
+    \x01 = eval("\x01") + 272;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 126;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 777)
+{
+    \x01 = eval("\x01") - 146;
+    
+    
+} // end if
+if (eval("\x01") == 942)
+{
+    \x01 = eval("\x01") - 368;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 122;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 373)
+{
+    \x01 = eval("\x01") + 404;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 146;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 260;
+if (eval("\x01") == 728)
+{
+    \x01 = eval("\x01") - 440;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 345;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 752)
+{
+    \x01 = eval("\x01") - 526;
+}
+else
+{
+    \x01 = eval("\x01") - 6;
+    if (eval("\x01") == 860)
+    {
+        \x01 = eval("\x01") - 126;
+        
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 757;
+for (\x01 = eval("\x01") + 84; eval("\x01") == 948; \x01 = eval("\x01") - 314)
+{
+    \x01 = eval("\x01") - 47;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 841)
+{
+    \x01 = eval("\x01") - 838;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 74;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 740)
+{
+    \x01 = eval("\x01") - 140;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 334;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 901)
+{
+    \x01 = eval("\x01") - 314;
+    
+    
+} // end if
+\x01 = eval("\x01") + 663;
+if (eval("\x01") == 587)
+{
+    \x01 = eval("\x01") + 293;
+    
+    
+} // end if
+\x01 = eval("\x01") + 682;
+if (eval("\x01") == 3)
+{
+    \x01 = eval("\x01") + 74;
+    
+    
+} // end if
+if (eval("\x01") == 880)
+{
+    \x01 = eval("\x01") - 702;
+}
+else
+{
+    if (eval("\x01") == 600)
+    {
+        \x01 = eval("\x01") - 334;
+        
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 250;
+for (\x01 = eval("\x01") - 70; eval("\x01") == 842; \x01 = eval("\x01") - 49)
+{
+    \x01 = eval("\x01") - 315;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+\x01 = eval("\x01") - 156;
+if (eval("\x01") == 114)
+{
+    \x01 = eval("\x01") + 832;
+    
+    
+} // end if
+\x01 = eval("\x01") + 656;
+if (eval("\x01") == 30)
+{
+    \x01 = eval("\x01") + 390;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 123;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 17;
+if (eval("\x01") == 527)
+{
+    \x01 = eval("\x01") - 49;
+    
+    
+} // end if
+\x01 = eval("\x01") + 146;
+if (eval("\x01") == 526)
+{
+    \x01 = eval("\x01") - 384;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 44;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 142)
+{
+    \x01 = eval("\x01") + 44;
+    
+    
+} // end if
+if (eval("\x01") == 420)
+{
+    \x01 = eval("\x01") + 123;
+    
+    
+} // end if
+\x01 = eval("\x01") - 774;
+if (eval("\x01") == 624)
+{
+    \x01 = eval("\x01") - 420;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 77;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 180)
+{
+    \x01 = eval("\x01") - 66;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 832;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 204)
+{
+    \x01 = eval("\x01") - 77;
+    
+    
+} // end if
+if (eval("\x01") == 127)
+{
+    \x01 = eval("\x01") - 42;
+    
+    
+} // end if
+if (eval("\x01") == 109)
+{
+    \x01 = eval("\x01") + 695;
+    
+    
+} // end if
+if (eval("\x01") == 790)
+{
+    \x01 = eval("\x01") - 681;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 695;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 85)
+{
+    \x01 = eval("\x01") + 800;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 725;
+for (\x01 = eval("\x01") + 222; eval("\x01") == 614; \x01 = eval("\x01") - 634)
+{
+    \x01 = eval("\x01") + 46;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 598)
+{
+    \x01 = eval("\x01") - 415;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 135;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 464;
+\x01 = eval("\x01") - 414;
+if (eval("\x01") == 368)
+{
+    \x01 = eval("\x01") + 431;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 460;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 704)
+{
+    \x01 = eval("\x01") + 78;
+    
+    
+} // end if
+if (eval("\x01") == 799)
+{
+    \x01 = eval("\x01") - 460;
+    
+    
+} // end if
+if (eval("\x01") == 944)
+{
+    \x01 = eval("\x01") - 124;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 670;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 486)
+{
+    \x01 = eval("\x01") + 218;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 78;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 660)
+{
+    \x01 = eval("\x01") - 634;
+    
+    
+} // end if
+if (eval("\x01") == 340)
+{
+    \x01 = eval("\x01") + 154;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 30;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 314;
+if (eval("\x01") == 820)
+{
+    \x01 = eval("\x01") - 670;
+    
+    
+} // end if
+if (eval("\x01") == 87)
+{
+    \x01 = eval("\x01") + 351;
+    
+    
+} // end if
+\x01 = eval("\x01") - 364;
+\x01 = eval("\x01") + 259;
+if (eval("\x01") == 338)
+{
+    \x01 = eval("\x01") + 333;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 174;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 183)
+{
+    \x01 = eval("\x01") - 135;
+    
+    
+} // end if
+if (eval("\x01") == 16)
+{
+    \x01 = eval("\x01") + 834;
+    
+    
+} // end if
+\x01 = eval("\x01") - 334;
+\x01 = eval("\x01") + 896;
+if (eval("\x01") == 104)
+{
+    \x01 = eval("\x01") - 88;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 834;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 494)
+{
+    \x01 = eval("\x01") + 30;
+    
+    
+} // end if
+if (eval("\x01") == 671)
+{
+    \x01 = eval("\x01") - 174;
+    
+    
+} // end if
+if (eval("\x01") == 719)
+{
+    \x01 = eval("\x01") - 632;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 351;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 524)
+{
+    \x01 = eval("\x01") - 74;
+    
+    
+} // end if
+if (eval("\x01") == 450)
+{
+    \x01 = eval("\x01") + 450;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 746;
+for (\x01 = eval("\x01") + 67; eval("\x01") == 382; \x01 = eval("\x01") + 159)
+{
+    \x01 = eval("\x01") - 207;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 364)
+{
+    \x01 = eval("\x01") + 633;
+    
+    
+} // end if
+\x01 = eval("\x01") + 519;
+if (eval("\x01") == 990)
+{
+    \x01 = eval("\x01") - 478;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 331;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 666)
+{
+    \x01 = eval("\x01") - 520;
+    
+    
+} // end if
+if (eval("\x01") == 742)
+{
+    \x01 = eval("\x01") - 378;
+    
+    
+} // end if
+if (eval("\x01") == 27)
+{
+    \x01 = eval("\x01") + 799;
+    
+    
+} // end if
+\x01 = eval("\x01") + 300;
+if (eval("\x01") == 276)
+{
+    \x01 = eval("\x01") + 414;
+    
+    
+} // end if
+if (eval("\x01") == 813)
+{
+    \x01 = eval("\x01") + 99;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 22;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 552;
+if (eval("\x01") == 665)
+{
+    \x01 = eval("\x01") - 450;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 591;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 997)
+{
+    \x01 = eval("\x01") - 145;
+}
+else
+{
+    if (eval("\x01") == 912)
+    {
+        \x01 = eval("\x01") + 22;
+        
+        
+    } // end if
+    if (eval("\x01") == 439)
+    {
+        \x01 = eval("\x01") - 412;
+        if (!null)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 799;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 513)
+    {
+        \x01 = eval("\x01") + 229;
+        if (!null)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 378;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 215)
+    {
+        \x01 = eval("\x01") + 591;
+        
+        
+    } // end if
+    if (eval("\x01") == 621)
+    {
+        \x01 = eval("\x01") - 345;
+        if (!null)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 414;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 175)
+    {
+        \x01 = eval("\x01") + 159;
+        
+        
+    } // end if
+    \x01 = eval("\x01") - 293;
+    if (eval("\x01") == 512)
+    {
+        \x01 = eval("\x01") + 331;
+        
+        
+    } // end if
+    if (eval("\x01") == 870)
+    {
+        \x01 = eval("\x01") - 204;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 520;
+        } // end else if
+        
+    } // end if
+    \x01 = eval("\x01") - 404;
+    \x01 = eval("\x01") + 302;
+    \x01 = eval("\x01") + 287;
+    if (eval("\x01") == 848)
+    {
+        \x01 = eval("\x01") - 280;
+        
+        
+    } // end if
+    \x01 = eval("\x01") - 426;
+    if (eval("\x01") == 400)
+    {
+        \x01 = eval("\x01") + 448;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 280;
+        } // end else if
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 639;
+while (\x01 = eval("\x01") - 218, eval("\x01") == 878)
+{
+    \x01 = eval("\x01") - 315;
+    break;
+} // end while
+if (eval("\x01") == 858)
+{
+    \x01 = eval("\x01") - 20;
+    
+    
+} // end if
+if (eval("\x01") == 969)
+{
+    \x01 = eval("\x01") - 91;
+    
+    
+} // end if
+if (eval("\x01") == 421)
+{
+    \x01 = eval("\x01") + 437;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 20;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 691)
+{
+    \x01 = eval("\x01") + 278;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 91;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 147;
+if (eval("\x01") == 563)
+{
+    \x01 = eval("\x01") + 49;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 670;
+while (\x01 = eval("\x01") + 162, eval("\x01") == 452)
+{
+    \x01 = eval("\x01") + 79;
+    break;
+} // end while
+\x01 = eval("\x01") + 153;
+if (eval("\x01") == 832)
+{
+    \x01 = eval("\x01") - 380;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 79;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 684)
+{
+    \x01 = eval("\x01") + 215;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 174;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 899)
+{
+    \x01 = eval("\x01") - 174;
+    
+    
+} // end if
+if (eval("\x01") == 725)
+{
+    \x01 = eval("\x01") - 360;
+    
+    
+} // end if
+if (eval("\x01") == 365)
+{
+    \x01 = eval("\x01") - 157;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 638;
+while (\x01 = eval("\x01") - 54, eval("\x01") == 363)
+{
+    \x01 = eval("\x01") - 280;
+    break;
+} // end while
+if (eval("\x01") == 536)
+{
+    \x01 = eval("\x01") + 350;
+    
+    
+} // end if
+\x01 = eval("\x01") + 797;
+if (eval("\x01") == 880)
+{
+    \x01 = eval("\x01") - 344;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 350;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 886)
+{
+    \x01 = eval("\x01") - 140;
+    
+    
+} // end if
+if (eval("\x01") == 584)
+{
+    \x01 = eval("\x01") - 221;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 280;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 746)
+{
+    \x01 = eval("\x01") - 50;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 230;
+for (\x01 = eval("\x01") + 150; eval("\x01") == 380; \x01 = eval("\x01") + 616)
+{
+    \x01 = eval("\x01") - 204;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+\x01 = eval("\x01") - 327;
+if (eval("\x01") == 752)
+{
+    \x01 = eval("\x01") - 215;
+    
+    
+} // end if
+\x01 = eval("\x01") - 223;
+\x01 = eval("\x01") - 501;
+if (eval("\x01") == 176)
+{
+    \x01 = eval("\x01") + 616;
+    
+    
+} // end if
+if (eval("\x01") == 544)
+{
+    \x01 = eval("\x01") + 15;
+    
+    
+} // end if
+if (eval("\x01") == 469)
+{
+    \x01 = eval("\x01") + 280;
+    
+    
+} // end if
+if (eval("\x01") == 497)
+{
+    \x01 = eval("\x01") - 28;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 280;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 62;
+if (eval("\x01") == 874)
+{
+    \x01 = eval("\x01") - 520;
+    
+    
+} // end if
+if (eval("\x01") == 408)
+{
+    \x01 = eval("\x01") + 521;
+    
+    
+} // end if
+if (eval("\x01") == 291)
+{
+    \x01 = eval("\x01") + 117;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 521;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 602)
+{
+    \x01 = eval("\x01") - 58;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 15;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 105;
+if (eval("\x01") == 644)
+{
+    \x01 = eval("\x01") + 108;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 215;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 314)
+{
+    \x01 = eval("\x01") + 560;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 520;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 354)
+{
+    \x01 = eval("\x01") + 546;
+    
+    
+} // end if
+if (eval("\x01") == 900)
+{
+    \x01 = eval("\x01") - 491;
+    
+} // end if
+if (eval("\x01") == 409)
+{
+    \x01 = eval("\x01") - 37;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.34375, -2.34375" startPointB="-2.34375, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.34375, #FFFFFC.AF" anchorPointA="-1.65625, #FFFFFB.FF" controlPointB="-2.34375, #FFFFFC.AF" anchorPointB="-1.65625, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, #FFFFFB.4F" anchorPointA="0, -4.6875" controlPointB="#FFFFFF.07, #FFFFFB.4F" anchorPointB="0, -4.6875"/>
+                    <MorphCurves controlPointA="#0.F9, #FFFFFB.4F" anchorPointA="#1.A9, #FFFFFB.FF" controlPointB="#0.F9, #FFFFFB.4F" anchorPointB="#1.A9, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#2.58, #FFFFFC.AF" anchorPointA="#2.58, -2.34375" controlPointB="#2.58, #FFFFFC.AF" anchorPointB="#2.58, -2.34375"/>
+                    <MorphCurves controlPointA="#2.58, -1.375" anchorPointA="#1.A9, -0.6875" controlPointB="#2.58, -1.375" anchorPointB="#1.A9, -0.6875"/>
+                    <MorphCurves controlPointA="#0.F9, 0" controlPointB="#0.F9, 0"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, 0" anchorPointA="-1.65625, -0.6875" controlPointB="#FFFFFF.07, 0" anchorPointB="-1.65625, -0.6875"/>
+                    <MorphCurves controlPointA="-2.34375, -1.375" anchorPointA="-2.34375, -2.34375" controlPointB="-2.34375, -1.375" anchorPointB="-2.34375, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0777740478515625" d="0.0777740478515625" tx="5.45" ty="-6.9"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0607452392578125" d="0.0607452392578125" tx="-8.9" ty="-45.1"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.152941176470588" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.450980392156863" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.152941176470588" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 5317" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.34375, -2.34375" startPointB="-2.34375, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.34375, #FFFFFC.AF" anchorPointA="-1.65625, #FFFFFB.FF" controlPointB="-2.34375, #FFFFFC.AF" anchorPointB="-1.65625, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, #FFFFFB.4F" anchorPointA="0, -4.6875" controlPointB="#FFFFFF.07, #FFFFFB.4F" anchorPointB="0, -4.6875"/>
+                    <MorphCurves controlPointA="#0.F9, #FFFFFB.4F" anchorPointA="#1.A9, #FFFFFB.FF" controlPointB="#0.F9, #FFFFFB.4F" anchorPointB="#1.A9, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#2.58, #FFFFFC.AF" anchorPointA="#2.58, -2.34375" controlPointB="#2.58, #FFFFFC.AF" anchorPointB="#2.58, -2.34375"/>
+                    <MorphCurves controlPointA="#2.58, -1.375" anchorPointA="#1.A9, -0.6875" controlPointB="#2.58, -1.375" anchorPointB="#1.A9, -0.6875"/>
+                    <MorphCurves controlPointA="#0.F9, 0" controlPointB="#0.F9, 0"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, 0" anchorPointA="-1.65625, -0.6875" controlPointB="#FFFFFF.07, 0" anchorPointB="-1.65625, -0.6875"/>
+                    <MorphCurves controlPointA="-2.34375, -1.375" anchorPointA="-2.34375, -2.34375" controlPointB="-2.34375, -1.375" anchorPointB="-2.34375, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0777740478515625" d="0.0777740478515625" tx="5.45" ty="-6.9"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.6" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.06036376953125" d="0.06036376953125" tx="2.4" ty="-38.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.101960784313725" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.101960784313725" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 5320" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.34375, -2.34375" startPointB="-2.34375, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.34375, #FFFFFC.AF" anchorPointA="-1.65625, #FFFFFB.FF" controlPointB="-2.34375, #FFFFFC.AF" anchorPointB="-1.65625, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, #FFFFFB.4F" anchorPointA="0, -4.6875" controlPointB="#FFFFFF.07, #FFFFFB.4F" anchorPointB="0, -4.6875"/>
+                    <MorphCurves controlPointA="#0.F9, #FFFFFB.4F" anchorPointA="#1.A9, #FFFFFB.FF" controlPointB="#0.F9, #FFFFFB.4F" anchorPointB="#1.A9, #FFFFFB.FF"/>
+                    <MorphCurves controlPointA="#2.58, #FFFFFC.AF" anchorPointA="#2.58, -2.34375" controlPointB="#2.58, #FFFFFC.AF" anchorPointB="#2.58, -2.34375"/>
+                    <MorphCurves controlPointA="#2.58, -1.375" anchorPointA="#1.A9, -0.6875" controlPointB="#2.58, -1.375" anchorPointB="#1.A9, -0.6875"/>
+                    <MorphCurves controlPointA="#0.F9, 0" controlPointB="#0.F9, 0"/>
+                    <MorphCurves controlPointA="#FFFFFF.07, 0" anchorPointA="-1.65625, -0.6875" controlPointB="#FFFFFF.07, 0" anchorPointB="-1.65625, -0.6875"/>
+                    <MorphCurves controlPointA="-2.34375, -1.375" anchorPointA="-2.34375, -2.34375" controlPointB="-2.34375, -1.375" anchorPointB="-2.34375, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0866241455078125" d="0.0866241455078125" tx="-6.55" ty="8.1"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.101960784313725" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.101960784313725" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.06036376953125" d="0.06036376953125" tx="2.4" ty="-38.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.266666666666667"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.643137254901961"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.772549019607843"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.905882352941176"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!425 -1025[600 -849 600 -600!600 -600[600 -352 425 -176!425 -176[249 0 0 0!0 0[-249 0 -424 -176!-424 -176[-600 -352 -600 -600!-600 -600[-600 -849 -424 -1025!-424 -1025[-249 -1201 0 -1200!0 -1200[249 -1201 425 -1025"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.96875, -2.34375" startPointB="-2.96875, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.96875, -3.578125" anchorPointA="#FFFFFD.E5, #FFFFFB.8D" controlPointB="-2.96875, -3.578125" anchorPointB="#FFFFFD.E5, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="-1.234375, -5.3125" anchorPointA="0, -5.3125" controlPointB="-1.234375, -5.3125" anchorPointB="0, -5.3125"/>
+                    <MorphCurves controlPointA="#1.3C, -5.3125" anchorPointA="#2.19, #FFFFFB.8D" controlPointB="#1.3C, -5.3125" anchorPointB="#2.19, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="#2.F8, -3.578125" anchorPointA="#2.F8, -2.34375" controlPointB="#2.F8, -3.578125" anchorPointB="#2.F8, -2.34375"/>
+                    <MorphCurves controlPointA="#2.F8, -1.109375" anchorPointA="#2.19, #FFFFFF.C1" controlPointB="#2.F8, -1.109375" anchorPointB="#2.19, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="#1.3C, #0.A" anchorPointA="0, #0.A" controlPointB="#1.3C, #0.A" anchorPointB="0, #0.A"/>
+                    <MorphCurves controlPointA="-1.234375, #0.A" anchorPointA="#FFFFFD.E5, #FFFFFF.C1" controlPointB="-1.234375, #0.A" anchorPointB="#FFFFFD.E5, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="-2.96875, -1.109375" anchorPointA="-2.96875, -2.34375" controlPointB="-2.96875, -1.109375" anchorPointB="-2.96875, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.4" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.96875, -2.34375" startPointB="-2.96875, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.96875, -3.578125" anchorPointA="#FFFFFD.E5, #FFFFFB.8D" controlPointB="-2.96875, -3.578125" anchorPointB="#FFFFFD.E5, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="-1.234375, -5.3125" anchorPointA="0, -5.3125" controlPointB="-1.234375, -5.3125" anchorPointB="0, -5.3125"/>
+                    <MorphCurves controlPointA="#1.3C, -5.3125" anchorPointA="#2.19, #FFFFFB.8D" controlPointB="#1.3C, -5.3125" anchorPointB="#2.19, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="#2.F8, -3.578125" anchorPointA="#2.F8, -2.34375" controlPointB="#2.F8, -3.578125" anchorPointB="#2.F8, -2.34375"/>
+                    <MorphCurves controlPointA="#2.F8, -1.109375" anchorPointA="#2.19, #FFFFFF.C1" controlPointB="#2.F8, -1.109375" anchorPointB="#2.19, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="#1.3C, #0.A" anchorPointA="0, #0.A" controlPointB="#1.3C, #0.A" anchorPointB="0, #0.A"/>
+                    <MorphCurves controlPointA="-1.234375, #0.A" anchorPointA="#FFFFFD.E5, #FFFFFF.C1" controlPointB="-1.234375, #0.A" anchorPointB="#FFFFFD.E5, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="-2.96875, -1.109375" anchorPointA="-2.96875, -2.34375" controlPointB="-2.96875, -1.109375" anchorPointB="-2.96875, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.4" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" tweenType="shape" motionTweenScale="false" keyMode="16386">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.96875, -2.34375" startPointB="-2.96875, -2.34375" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.96875, -3.578125" anchorPointA="#FFFFFD.E5, #FFFFFB.8D" controlPointB="-2.96875, -3.578125" anchorPointB="#FFFFFD.E5, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="-1.234375, -5.3125" anchorPointA="0, -5.3125" controlPointB="-1.234375, -5.3125" anchorPointB="0, -5.3125"/>
+                    <MorphCurves controlPointA="#1.3C, -5.3125" anchorPointA="#2.19, #FFFFFB.8D" controlPointB="#1.3C, -5.3125" anchorPointB="#2.19, #FFFFFB.8D"/>
+                    <MorphCurves controlPointA="#2.F8, -3.578125" anchorPointA="#2.F8, -2.34375" controlPointB="#2.F8, -3.578125" anchorPointB="#2.F8, -2.34375"/>
+                    <MorphCurves controlPointA="#2.F8, -1.109375" anchorPointA="#2.19, #FFFFFF.C1" controlPointB="#2.F8, -1.109375" anchorPointB="#2.19, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="#1.3C, #0.A" anchorPointA="0, #0.A" controlPointB="#1.3C, #0.A" anchorPointB="0, #0.A"/>
+                    <MorphCurves controlPointA="-1.234375, #0.A" anchorPointA="#FFFFFD.E5, #FFFFFF.C1" controlPointB="-1.234375, #0.A" anchorPointB="#FFFFFD.E5, #FFFFFF.C1"/>
+                    <MorphCurves controlPointA="-2.96875, -1.109375" anchorPointA="-2.96875, -2.34375" controlPointB="-2.96875, -1.109375" anchorPointB="-2.96875, -2.34375"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0464019775390625" d="0.0464019775390625" ty="-30"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.631372549019608"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.752941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!537 -1139[760 -916 760 -600!760 -600[760 -284 537 -63!537 -63[316 160 0 160!0 160[-316 160 -539 -63!-539 -63[-760 -284 -760 -600!-760 -600[-760 -916 -539 -1139!-539 -1139[-316 -1360 0 -1360!0 -1360[316 -1360 537 -1139!1 -140[-190 -140
+ -326 -276!-326 -276[-460 -410 -459 -600!-459 -600[-460 -790 -326 -926!-326 -926[-190 -1060 1 -1060!1 -1060[190 -1060 324 -926!324 -926[460 -790 461 -600!461 -600[460 -410 324 -276!324 -276[190 -140 1 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

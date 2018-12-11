@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 1374 (Blank)" itemID="536fb3c6-0000055e" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="Blank" lastModified="1399829446">
+  <timeline>
+    <DOMTimeline name="sprite 1374 (Blank)">
+      <layers>
+        <DOMLayer name="Dummy Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

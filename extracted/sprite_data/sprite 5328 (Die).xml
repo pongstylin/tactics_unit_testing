@@ -1,0 +1,481 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 5328 (Die)" itemID="536fb3c7-000014d0" linkageExportForAS="true" linkageIdentifier="Die" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 5328 (Die)">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 421;
+for (\x01 = eval("\x01") + 577; eval("\x01") == 781; \x01 = eval("\x01") - 538)
+{
+    \x01 = eval("\x01") - 150;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+\x01 = eval("\x01") - 30;
+if (eval("\x01") == 631)
+{
+    \x01 = eval("\x01") - 538;
+    
+    
+} // end if
+if (eval("\x01") == 670)
+{
+    \x01 = eval("\x01") - 542;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 583;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 822)
+{
+    \x01 = eval("\x01") + 109;
+    
+    
+} // end if
+if (eval("\x01") == 901)
+{
+    \x01 = eval("\x01") - 839;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 617;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 128)
+{
+    \x01 = eval("\x01") + 583;
+    
+    
+} // end if
+\x01 = eval("\x01") - 158;
+if (eval("\x01") == 553)
+{
+    \x01 = eval("\x01") + 269;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 109;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 62)
+{
+    \x01 = eval("\x01") + 617;
+    
+    
+} // end if
+\x01 = eval("\x01") - 347;
+if (eval("\x01") == 165)
+{
+    \x01 = eval("\x01") + 592;
+    
+    
+} // end if
+if (eval("\x01") == 332)
+{
+    \x01 = eval("\x01") - 92;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 26;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 240)
+{
+    \x01 = eval("\x01") + 26;
+    
+    
+} // end if
+\x01 = eval("\x01") + 196;
+if (eval("\x01") == 462)
+{
+    \x01 = eval("\x01") - 339;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 815;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 123)
+{
+    \x01 = eval("\x01") + 815;
+    
+    
+} // end if
+\x01 = eval("\x01") - 722;
+if (eval("\x01") == 216)
+{
+    \x01 = eval("\x01") - 51;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 592;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 757)
+{
+    \x01 = eval("\x01") - 394;
+    
+    
+} // end if
+if (eval("\x01") == 363)
+{
+    \x01 = eval("\x01") + 621;
+    
+} // end if
+if (eval("\x01") == 984)
+{
+    \x01 = eval("\x01") - 893;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 204;
+while (\x01 = eval("\x01") + 64, eval("\x01") == 525)
+{
+    \x01 = eval("\x01") + 138;
+    break;
+} // end while
+if (eval("\x01") == 784)
+{
+    \x01 = eval("\x01") - 255;
+    
+    
+} // end if
+if (eval("\x01") == 927)
+{
+    \x01 = eval("\x01") - 207;
+    
+    
+} // end if
+\x01 = eval("\x01") + 441;
+if (eval("\x01") == 298)
+{
+    \x01 = eval("\x01") + 227;
+    
+    
+} // end if
+if (eval("\x01") == 970)
+{
+    \x01 = eval("\x01") - 672;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 227;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 298;
+if (eval("\x01") == 663)
+{
+    \x01 = eval("\x01") - 641;
+    
+} // end if
+if (eval("\x01") == 589)
+{
+    \x01 = eval("\x01") + 195;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 255;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 422)
+{
+    \x01 = eval("\x01") - 268;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 646;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 22)
+{
+    \x01 = eval("\x01") + 643;
+}
+else
+{
+    if (eval("\x01") == 268)
+    {
+        \x01 = eval("\x01") + 659;
+        if (!null)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 207;
+        } // end else if
+        
+    } // end if
+    \x01 = eval("\x01") - 211;
+    if (eval("\x01") == 154)
+    {
+        \x01 = eval("\x01") + 646;
+        
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.91668701171875" d="1.5" tx="2" ty="-18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.583694458007813" d="3.29129028320313" tx="2" ty="-46.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.997970581054688" d="1.50001525878906" tx="1" ty="-27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.41819763183594" d="1.58332824707031" tx="-1" ty="-18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.08370971679688" d="2.66847229003906" tx="-2" ty="-38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999069213867188" d="1.41667175292969" tx="1" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999526977539063" d="1.95806884765625" ty="-36.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.915267944335938" d="2.12586975097656" ty="-38.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017" soundName="sound 431" soundSync="start" soundLoop="0" soundZoomLevel="65535">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.41612243652344" d="1.5" ty="-16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.956375122070313" d="2.83261108398438" tx="-0.5" ty="-41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.12322998046875" d="1.41667175292969" tx="0.5" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.832489013671875" d="2.45936584472656" tx="-2" ty="-43.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.790969848632813" d="2.75175476074219" tx="-0.5" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625" redMultiplier="0.3984375" greenMultiplier="0.6015625" blueOffset="129"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,879 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6583 (Room)" itemID="536fb3c7-000019b8" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="Room" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6583 (Room)">
+      <layers>
+        <DOMLayer name="Layer 49" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuserc" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-63"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT" fillColor="#FFEECC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 48" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-63"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 47" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 46" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 45" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 44" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-63"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 43" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-64"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 42" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-64"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 41" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-64"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 40" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuserc" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-91"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT" fillColor="#FFEECC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 39" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-91"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 38" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-90"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 37" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-90"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 36" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-90"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 35" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-91"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 34" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-92"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 33" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-92"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 32" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topuser" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-92"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 31" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-50"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#77CCFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 30" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-50"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 29" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-49"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 28" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-49"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 27" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-49"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 26" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-50"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 25" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-27" ty="-51"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 24" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-28" ty="-51"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 23" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="btmclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-29" ty="-51"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 22" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#77CCFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 21" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 20" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 19" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 18" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 17" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-71" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-72" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="46.9" width="7.2" height="12.55" isSelectable="false" scrollable="true" variableName="topclan" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-73" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 1374 (Blank)" name="ubtm">
+                  <matrix>
+                    <Matrix tx="22" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 1374 (Blank)" name="utop">
+                  <matrix>
+                    <Matrix tx="-22" ty="-14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 1374 (Blank)" name="shbtm">
+                  <matrix>
+                    <Matrix tx="22" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 1374 (Blank)" name="shtop">
+                  <matrix>
+                    <Matrix tx="-22" ty="-14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 6545" name="btnrbtm">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="22" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 6545" name="btnrtop">
+                  <matrix>
+                    <Matrix tx="-22" ty="-14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 6543" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

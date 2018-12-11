@@ -1,0 +1,134 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6470 (EggHitArea)" itemID="536fb3c7-00001947" linkageExportForAS="true" linkageIdentifier="EggHitArea" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6470 (EggHitArea)">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite 6469" centerPoint3DX="0.65" centerPoint3DY="-31.55">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load)
+{
+    var \x01 = 59;
+    while (\x01 = eval("\x01") + 43, \x01 = eval("\x01") + 115, eval("\x01") == 482)
+    {
+        \x01 = eval("\x01") + 484;
+        break;
+    } // end while
+    if (eval("\x01") == 704)
+    {
+        \x01 = eval("\x01") - 222;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 484;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 43)
+    {
+        \x01 = eval("\x01") + 546;
+        
+        
+    } // end if
+    \x01 = eval("\x01") - 366;
+    \x01 = eval("\x01") - 433;
+    if (eval("\x01") == 207)
+    {
+        \x01 = eval("\x01") + 332;
+        
+        
+    } // end if
+    if (eval("\x01") == 540)
+    {
+        \x01 = eval("\x01") + 50;
+        
+        
+    } // end if
+    if (eval("\x01") == 102)
+    {
+        \x01 = eval("\x01") - 59;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 546;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 590)
+    {
+        \x01 = eval("\x01") + 314;
+        
+        
+    } // end if
+    \x01 = eval("\x01") + 705;
+    if (eval("\x01") == 533)
+    {
+        \x01 = eval("\x01") - 326;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 332;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 904)
+    {
+        \x01 = eval("\x01") - 344;
+    }
+    else
+    {
+        if (eval("\x01") == 173)
+        {
+            \x01 = eval("\x01") - 17;
+            if (false)
+            {
+            }
+            else
+            {
+                \x01 = eval("\x01") + 68;
+            } // end else if
+            
+        } // end if
+        if (eval("\x01") == 156)
+        {
+            \x01 = eval("\x01") + 68;
+            
+            
+        } // end if
+        if (eval("\x01") == 929)
+        {
+            \x01 = eval("\x01") - 389;
+            if (false)
+            {
+            }
+            else
+            {
+                \x01 = eval("\x01") + 50;
+            } // end else if
+            
+        } // end if
+        
+    } // end else if
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

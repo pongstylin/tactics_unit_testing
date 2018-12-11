@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 6796" itemID="536fb3c7-00001a8d" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 6796">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="171.65" width="40.2" height="13" isSelectable="false" scrollable="true" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix a="1.00123596191406" tx="-172.05" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Recruit&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#7F7766"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="171.65" width="40.2" height="13" isSelectable="false" scrollable="true" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix a="1.00123596191406" tx="-172.05" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Recruit&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#FFEECC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="171.65" width="40.2" height="13" isSelectable="false" scrollable="true" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix a="1.00123596191406" tx="-172.05" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Recruit&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="10" face="ArialMT" fillColor="#7F7766"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

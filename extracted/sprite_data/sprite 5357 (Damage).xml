@@ -1,0 +1,1008 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 5357 (Damage)" itemID="536fb3c7-000014ee" linkageExportForAS="true" linkageIdentifier="Damage" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 5357 (Damage)">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 682;
+for (\x01 = eval("\x01") - 126; eval("\x01") == 709; \x01 = eval("\x01") + 220)
+{
+    \x01 = eval("\x01") - 700;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+\x01 = eval("\x01") - 50;
+\x01 = eval("\x01") + 885;
+if (eval("\x01") == 9)
+{
+    \x01 = eval("\x01") + 220;
+    
+    
+} // end if
+if (eval("\x01") == 666)
+{
+    \x01 = eval("\x01") - 521;
+    
+    
+} // end if
+if (eval("\x01") == 706)
+{
+    \x01 = eval("\x01") + 261;
+    
+    
+} // end if
+\x01 = eval("\x01") - 118;
+if (eval("\x01") == 970)
+{
+    \x01 = eval("\x01") - 939;
+    
+    
+} // end if
+if (eval("\x01") == 556)
+{
+    \x01 = eval("\x01") + 110;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 521;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 856)
+{
+    \x01 = eval("\x01") + 114;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 939;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 418)
+{
+    \x01 = eval("\x01") + 341;
+    
+    
+} // end if
+if (eval("\x01") == 632)
+{
+    \x01 = eval("\x01") - 63;
+    
+    
+} // end if
+if (eval("\x01") == 281)
+{
+    \x01 = eval("\x01") + 163;
+    
+    
+} // end if
+\x01 = eval("\x01") + 560;
+\x01 = eval("\x01") - 154;
+if (eval("\x01") == 705)
+{
+    \x01 = eval("\x01") - 584;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 296;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 130;
+if (eval("\x01") == 916)
+{
+    \x01 = eval("\x01") - 821;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 186;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 111)
+{
+    \x01 = eval("\x01") + 440;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 175;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 813)
+{
+    \x01 = eval("\x01") - 395;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 341;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 551)
+{
+    \x01 = eval("\x01") + 175;
+    
+    
+} // end if
+if (eval("\x01") == 249)
+{
+    \x01 = eval("\x01") + 457;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 261;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 95)
+{
+    \x01 = eval("\x01") + 186;
+    
+    
+} // end if
+\x01 = eval("\x01") - 320;
+if (eval("\x01") == 989)
+{
+    \x01 = eval("\x01") - 357;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 63;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 444)
+{
+    \x01 = eval("\x01") + 204;
+    
+} // end if
+if (eval("\x01") == 121)
+{
+    \x01 = eval("\x01") + 296;
+    
+    
+} // end if
+\x01 = eval("\x01") + 572;
+if (eval("\x01") == 648)
+{
+    \x01 = eval("\x01") - 647;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-75.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-77.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-75.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-77.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-68"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-74.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-76.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-68"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-74.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-76.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-68"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-74.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-76.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-75.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-78"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-77.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-70"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-76.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-78.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-75.9" ty="-76"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-70"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-76.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-78.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-76.9" ty="-76"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-70"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-76.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-79"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-78.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" left="68.9" width="18" height="15.95" isSelectable="false" scrollable="true" variableName="dmg">
+                  <matrix>
+                    <Matrix d="1.00302124023438" tx="-77.9" ty="-76"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" useScreenSpacing="true" lineSpacing="0" size="11" bitmapSize="220" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

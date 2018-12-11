@@ -1,0 +1,175 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 1356" itemID="536fb3c6-0000054c" lastModified="1399829446">
+  <timeline>
+    <DOMTimeline name="sprite 1356">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="22" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 869;
+while (\x01 = eval("\x01") - 51, \x01 = eval("\x01") + 112, eval("\x01") == 96)
+{
+    \x01 = eval("\x01") + 629;
+} // end while
+if (eval("\x01") == 818)
+{
+    \x01 = eval("\x01") - 556;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 366;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 875)
+{
+    \x01 = eval("\x01") - 740;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 395;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 607;
+if (eval("\x01") == 135)
+{
+    \x01 = eval("\x01") + 395;
+    
+    
+} // end if
+if (eval("\x01") == 530)
+{
+    \x01 = eval("\x01") - 434;
+    
+    
+} // end if
+if (eval("\x01") == 262)
+{
+    \x01 = eval("\x01") + 366;
+    
+    
+} // end if
+if (eval("\x01") == 669)
+{
+    \x01 = eval("\x01") - 401;
+    
+    
+} // end if
+if (eval("\x01") == 227)
+{
+    \x01 = eval("\x01") + 308;
+    
+    
+} // end if
+if (eval("\x01") == 725)
+{
+    \x01 = eval("\x01") - 383;
+}
+else
+{
+    if (eval("\x01") == 647)
+    {
+        \x01 = eval("\x01") + 22;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 401;
+        } // end else if
+        
+    } // end if
+    \x01 = eval("\x01") + 86;
+    if (eval("\x01") == 714)
+    {
+        \x01 = eval("\x01") - 487;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 308;
+        } // end else if
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1355" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.69921875" blueMultiplier="0.69921875" greenMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1355" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.90234375" blueMultiplier="0.90234375" greenMultiplier="0.90234375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1355" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1355" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.875" blueMultiplier="0.875" greenMultiplier="0.875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1355" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.69921875" blueMultiplier="0.69921875" greenMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

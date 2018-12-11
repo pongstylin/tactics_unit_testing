@@ -1,0 +1,1353 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite 5875 (Glow)" itemID="536fb3c7-000016f4" linkageExportForAS="true" linkageIdentifier="Glow" lastModified="1399829447">
+  <timeline>
+    <DOMTimeline name="sprite 5875 (Glow)">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 472;
+for (\x01 = eval("\x01") - 50; eval("\x01") == 789; \x01 = eval("\x01") - 288)
+{
+    \x01 = eval("\x01") - 207;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 991)
+{
+    \x01 = eval("\x01") - 210;
+    
+    
+} // end if
+if (eval("\x01") == 781)
+{
+    \x01 = eval("\x01") - 2;
+    
+    
+} // end if
+if (eval("\x01") == 929)
+{
+    \x01 = eval("\x01") + 31;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 513;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 840)
+{
+    \x01 = eval("\x01") + 151;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 210;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 779)
+{
+    \x01 = eval("\x01") - 114;
+    
+} // end if
+if (eval("\x01") == 244)
+{
+    \x01 = eval("\x01") + 325;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 147;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 960)
+{
+    \x01 = eval("\x01") - 513;
+    
+    
+} // end if
+if (eval("\x01") == 569)
+{
+    \x01 = eval("\x01") - 147;
+    
+    
+} // end if
+\x01 = eval("\x01") + 264;
+if (eval("\x01") == 922)
+{
+    \x01 = eval("\x01") - 663;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 191;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 711)
+{
+    \x01 = eval("\x01") - 332;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 206;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 379)
+{
+    \x01 = eval("\x01") + 206;
+    
+    
+} // end if
+if (eval("\x01") == 665)
+{
+    \x01 = eval("\x01") - 626;
+}
+else
+{
+    if (eval("\x01") == 259)
+    {
+        \x01 = eval("\x01") - 191;
+        
+        
+    } // end if
+    \x01 = eval("\x01") + 127;
+    \x01 = eval("\x01") + 418;
+    if (eval("\x01") == 195)
+    {
+        \x01 = eval("\x01") + 739;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 182;
+        } // end else if
+        
+    } // end if
+    \x01 = eval("\x01") + 37;
+    if (eval("\x01") == 582)
+    {
+        \x01 = eval("\x01") - 288;
+        
+        
+    } // end if
+    if (eval("\x01") == 934)
+    {
+        \x01 = eval("\x01") - 182;
+        
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 917;
+for (\x01 = eval("\x01") - 95; eval("\x01") == 776; \x01 = eval("\x01") + 203)
+{
+    \x01 = eval("\x01") + 16;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 267)
+{
+    \x01 = eval("\x01") + 597;
+    
+    
+} // end if
+if (eval("\x01") == 908)
+{
+    \x01 = eval("\x01") - 725;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 464;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 822)
+{
+    \x01 = eval("\x01") - 555;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 597;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 55;
+if (eval("\x01") == 615)
+{
+    \x01 = eval("\x01") - 479;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 26;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 995)
+{
+    \x01 = eval("\x01") - 631;
+    
+    
+} // end if
+if (eval("\x01") == 792)
+{
+    \x01 = eval("\x01") + 203;
+    
+    
+} // end if
+if (eval("\x01") == 922)
+{
+    \x01 = eval("\x01") - 98;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 823;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 371;
+if (eval("\x01") == 921)
+{
+    \x01 = eval("\x01") - 516;
+    
+    
+} // end if
+if (eval("\x01") == 919)
+{
+    \x01 = eval("\x01") - 215;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 337;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 877)
+{
+    \x01 = eval("\x01") + 44;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 516;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 704)
+{
+    \x01 = eval("\x01") - 337;
+    
+    
+} // end if
+if (eval("\x01") == 136)
+{
+    \x01 = eval("\x01") + 26;
+    
+    
+} // end if
+\x01 = eval("\x01") - 255;
+\x01 = eval("\x01") + 837;
+\x01 = eval("\x01") + 81;
+if (eval("\x01") == 448)
+{
+    \x01 = eval("\x01") - 20;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 343;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 364)
+{
+    \x01 = eval("\x01") - 340;
+}
+else
+{
+    if (eval("\x01") == 428)
+    {
+        \x01 = eval("\x01") - 343;
+        
+        
+    } // end if
+    if (eval("\x01") == 723)
+    {
+        \x01 = eval("\x01") - 85;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 157;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 865)
+    {
+        \x01 = eval("\x01") + 5;
+        
+        
+    } // end if
+    \x01 = eval("\x01") + 907;
+    \x01 = eval("\x01") + 82;
+    \x01 = eval("\x01") + 561;
+    if (eval("\x01") == 638)
+    {
+        \x01 = eval("\x01") + 157;
+        
+        
+    } // end if
+    if (eval("\x01") == 676)
+    {
+        \x01 = eval("\x01") + 189;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 5;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 824)
+    {
+        \x01 = eval("\x01") - 823;
+        
+        
+    } // end if
+    if (eval("\x01") == 183)
+    {
+        \x01 = eval("\x01") + 464;
+        
+        
+    } // end if
+    \x01 = eval("\x01") + 29;
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 363;
+while (\x01 = eval("\x01") - 82, eval("\x01") == 664)
+{
+    \x01 = eval("\x01") - 445;
+    break;
+} // end while
+\x01 = eval("\x01") + 497;
+if (eval("\x01") == 24)
+{
+    \x01 = eval("\x01") + 117;
+    
+    
+} // end if
+if (eval("\x01") == 676)
+{
+    \x01 = eval("\x01") - 37;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 273;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 803)
+{
+    \x01 = eval("\x01") - 779;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 117;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 638)
+{
+    \x01 = eval("\x01") - 416;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 247;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 281)
+{
+    \x01 = eval("\x01") + 383;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 445;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 883)
+{
+    \x01 = eval("\x01") - 483;
+    
+    
+} // end if
+\x01 = eval("\x01") + 339;
+if (eval("\x01") == 639)
+{
+    \x01 = eval("\x01") - 273;
+    
+    
+} // end if
+\x01 = eval("\x01") + 584;
+if (eval("\x01") == 16)
+{
+    \x01 = eval("\x01") + 867;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 483;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 276;
+if (eval("\x01") == 222)
+{
+    \x01 = eval("\x01") + 247;
+    
+    
+} // end if
+if (eval("\x01") == 808)
+{
+    \x01 = eval("\x01") - 172;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 36;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 167;
+\x01 = eval("\x01") - 101;
+if (eval("\x01") == 636)
+{
+    \x01 = eval("\x01") + 36;
+    
+    
+} // end if
+if (eval("\x01") == 839)
+{
+    \x01 = eval("\x01") - 495;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 227;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 344)
+{
+    \x01 = eval("\x01") - 227;
+    
+    
+} // end if
+if (eval("\x01") == 366)
+{
+    \x01 = eval("\x01") + 409;
+    
+    
+} // end if
+if (eval("\x01") == 775)
+{
+    \x01 = eval("\x01") + 112;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 540;
+while (\x01 = eval("\x01") - 201, eval("\x01") == 166)
+{
+    \x01 = eval("\x01") + 178;
+    break;
+} // end while
+if (eval("\x01") == 500)
+{
+    \x01 = eval("\x01") - 339;
+    
+    
+} // end if
+if (eval("\x01") == 179)
+{
+    \x01 = eval("\x01") + 429;
+    
+    
+} // end if
+if (eval("\x01") == 544)
+{
+    \x01 = eval("\x01") - 421;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 101;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 859)
+{
+    \x01 = eval("\x01") - 253;
+    
+    
+} // end if
+if (eval("\x01") == 123)
+{
+    \x01 = eval("\x01") + 101;
+    
+    
+} // end if
+\x01 = eval("\x01") + 713;
+if (eval("\x01") == 117)
+{
+    \x01 = eval("\x01") + 383;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 339;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 284;
+if (eval("\x01") == 522)
+{
+    \x01 = eval("\x01") - 452;
+    
+    
+} // end if
+\x01 = eval("\x01") - 107;
+\x01 = eval("\x01") - 248;
+if (eval("\x01") == 445)
+{
+    \x01 = eval("\x01") - 279;
+    
+    
+} // end if
+\x01 = eval("\x01") + 31;
+if (eval("\x01") == 339)
+{
+    \x01 = eval("\x01") + 183;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 452;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 352)
+{
+    \x01 = eval("\x01") - 92;
+    
+    
+} // end if
+if (eval("\x01") == 783)
+{
+    \x01 = eval("\x01") - 431;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 92;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 192)
+{
+    \x01 = eval("\x01") - 13;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 429;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 441;
+\x01 = eval("\x01") - 445;
+if (eval("\x01") == 163)
+{
+    \x01 = eval("\x01") + 696;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 253;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 165)
+{
+    \x01 = eval("\x01") + 695;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 49;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 860)
+{
+    \x01 = eval("\x01") + 49;
+    
+    
+} // end if
+if (eval("\x01") == 661)
+{
+    \x01 = eval("\x01") - 216;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 279;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 344)
+{
+    \x01 = eval("\x01") - 16;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 483;
+while (\x01 = eval("\x01") + 475, eval("\x01") == 363)
+{
+    \x01 = eval("\x01") + 1;
+    break;
+} // end while
+if (eval("\x01") == 958)
+{
+    \x01 = eval("\x01") - 595;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 1;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 364)
+{
+    \x01 = eval("\x01") + 247;
+    
+    
+} // end if
+if (eval("\x01") == 611)
+{
+    \x01 = eval("\x01") - 286;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 439;
+while (\x01 = eval("\x01") - 377, \x01 = eval("\x01") - 95, eval("\x01") == 621)
+{
+    \x01 = eval("\x01") + 373;
+    break;
+} // end while
+if (eval("\x01") == 847)
+{
+    \x01 = eval("\x01") - 283;
+    
+    
+} // end if
+\x01 = eval("\x01") + 366;
+if (eval("\x01") == 71)
+{
+    \x01 = eval("\x01") + 550;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 373;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 596;
+if (eval("\x01") == 899)
+{
+    \x01 = eval("\x01") - 422;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 245;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 477)
+{
+    \x01 = eval("\x01") - 245;
+    
+    
+} // end if
+if (eval("\x01") == 487)
+{
+    \x01 = eval("\x01") - 325;
+    
+    
+} // end if
+\x01 = eval("\x01") - 365;
+\x01 = eval("\x01") - 646;
+\x01 = eval("\x01") + 108;
+if (eval("\x01") == 209)
+{
+    \x01 = eval("\x01") + 638;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 283;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 232)
+{
+    \x01 = eval("\x01") + 233;
+    
+    
+} // end if
+if (eval("\x01") == 465)
+{
+    \x01 = eval("\x01") + 387;
+}
+else
+{
+    if (eval("\x01") == 33)
+    {
+        \x01 = eval("\x01") + 684;
+        
+        
+    } // end if
+    if (eval("\x01") == 795)
+    {
+        \x01 = eval("\x01") + 10;
+        
+        
+    } // end if
+    if (eval("\x01") == 199)
+    {
+        \x01 = eval("\x01") - 166;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 684;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 846)
+    {
+        \x01 = eval("\x01") - 71;
+        
+        
+    } // end if
+    if (eval("\x01") == 883)
+    {
+        \x01 = eval("\x01") - 88;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") + 10;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 528)
+    {
+        \x01 = eval("\x01") + 318;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 71;
+        } // end else if
+        
+    } // end if
+    if (eval("\x01") == 62)
+    {
+        \x01 = eval("\x01") + 425;
+        if (false)
+        {
+        }
+        else
+        {
+            \x01 = eval("\x01") - 325;
+        } // end else if
+        
+    } // end if
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 643;
+for (\x01 = eval("\x01") - 243; eval("\x01") == 400; \x01 = eval("\x01") + 75)
+{
+    \x01 = eval("\x01") + 358;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 758)
+{
+    \x01 = eval("\x01") + 75;
+    
+    
+} // end if
+\x01 = eval("\x01") - 685;
+if (eval("\x01") == 148)
+{
+    \x01 = eval("\x01") - 32;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 643;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 116)
+{
+    \x01 = eval("\x01") + 643;
+    
+    
+} // end if
+if (eval("\x01") == 759)
+{
+    \x01 = eval("\x01") - 493;
+    
+    
+} // end if
+if (eval("\x01") == 266)
+{
+    \x01 = eval("\x01") - 226;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[var \x01 = 561;
+for (\x01 = eval("\x01") - 420; eval("\x01") == 226; \x01 = eval("\x01") - 641)
+{
+    \x01 = eval("\x01") + 417;
+    if (false)
+    {
+        continue;
+    } // end if
+} // end of for
+if (eval("\x01") == 807)
+{
+    \x01 = eval("\x01") - 174;
+    
+    
+} // end if
+if (eval("\x01") == 824)
+{
+    \x01 = eval("\x01") - 250;
+    if (!null)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 403;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 430)
+{
+    \x01 = eval("\x01") - 423;
+    
+    
+} // end if
+if (eval("\x01") == 551)
+{
+    \x01 = eval("\x01") + 432;
+    
+    
+} // end if
+if (eval("\x01") == 773)
+{
+    \x01 = eval("\x01") + 225;
+    
+    
+} // end if
+\x01 = eval("\x01") - 407;
+if (eval("\x01") == 574)
+{
+    \x01 = eval("\x01") - 403;
+    
+    
+} // end if
+\x01 = eval("\x01") + 735;
+if (eval("\x01") == 428)
+{
+    \x01 = eval("\x01") + 123;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 432;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") + 257;
+if (eval("\x01") == 742)
+{
+    \x01 = eval("\x01") + 255;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 836;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 363;
+if (eval("\x01") == 620)
+{
+    \x01 = eval("\x01") - 190;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 423;
+    } // end else if
+    
+} // end if
+\x01 = eval("\x01") - 174;
+if (eval("\x01") == 997)
+{
+    \x01 = eval("\x01") - 836;
+    
+    
+} // end if
+\x01 = eval("\x01") + 393;
+if (eval("\x01") == 554)
+{
+    \x01 = eval("\x01") - 307;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 713;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 247)
+{
+    \x01 = eval("\x01") + 713;
+    
+    
+} // end if
+\x01 = eval("\x01") - 908;
+if (eval("\x01") == 52)
+{
+    \x01 = eval("\x01") + 755;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") - 174;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 643)
+{
+    \x01 = eval("\x01") - 641;
+    
+    
+} // end if
+if (eval("\x01") == 141)
+{
+    \x01 = eval("\x01") + 632;
+    if (false)
+    {
+    }
+    else
+    {
+        \x01 = eval("\x01") + 225;
+    } // end else if
+    
+} // end if
+if (eval("\x01") == 2)
+{
+    \x01 = eval("\x01") + 551;
+    
+    
+} // end if
+if (eval("\x01") == 553)
+{
+    \x01 = eval("\x01") - 406;
+}
+else
+{
+    
+} // end else if
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" duration="3" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1369" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.350006103515625" d="0.350006103515625" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1369" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07501220703125" d="1.07501220703125" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 1369" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.80000305175781" d="1.80000305175781" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.51356506347656" b="-1.23880004882813" c="0.387222290039063" d="0.47308349609375" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.929244995117188" b="-0.056304931640625" c="0.276351928710938" d="4.55914306640625" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.751174926757813" b="0.0099639892578125" c="-0.05120849609375" d="3.84634399414063" tx="-0.1" ty="-29.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.569305419921875" b="0.049957275390625" c="-0.2734375" d="3.11344909667969" tx="-0.1" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.386672973632813" b="0.063140869140625" c="-0.387649536132813" d="2.373046875" tx="-0.05" ty="-29.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.206375122070313" b="0.0499725341796875" c="-0.396484375" d="1.63778686523438" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.1949462890625" b="0.266708374023438" c="-0.133407592773438" d="0.597640991210938" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.12242126464844" b="0.415664672851563" c="-0.651290893554688" d="1.75877380371094" tx="-0.05" ty="-29.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.83203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.03047180175781" b="0.55499267578125" c="-1.48811340332031" d="2.76319885253906" ty="-29.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66796875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.925186157226563" b="0.676040649414063" c="-2.60057067871094" d="3.55899047851563" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.346572875976563" b="0.758209228515625" c="-3.1795654296875" d="1.453369140625" tx="-0.15" ty="-29.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66796875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.0413055419921875" b="0.521820068359375" c="-2.5843505859375" d="-0.20440673828125" tx="-0.1" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.83203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shape 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.118179321289063" b="0.176544189453125" c="-1.40104675292969" d="-0.9378662109375" tx="-0.05" ty="-29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
