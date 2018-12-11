@@ -128,6 +128,7 @@ window.addEventListener('DOMContentLoaded', () => {
                   resolve();
               });
               audio.src = base_sound_url + filename + '.mp3';
+              return audio;
             });
           });
         }
@@ -182,7 +183,7 @@ window.addEventListener('DOMContentLoaded', () => {
   function renderFrame(frame) {
     unit_container.removeChildren();
 
-    frame.frame.reverse().forEach(layer => {
+    frame.frame.forEach(layer => {
       let spritesheet = PIXI.BaseTexture.fromImage(layer.i.toString());
       let texture = new PIXI.Texture(spritesheet, new PIXI.Rectangle(
         layer.vx,
@@ -195,6 +196,9 @@ window.addEventListener('DOMContentLoaded', () => {
       sprite.position = new PIXI.Point(-layer.x, -layer.y);
       unit_container.addChild(sprite);
     });
+
+    if (frame.sound)
+      frame.sound.forEach(sound_index => sounds[sound_index].cloneNode().play());
 
     app.render();
   }
